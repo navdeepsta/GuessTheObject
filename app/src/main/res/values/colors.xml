@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f8eaae</color>
+    <color name="colorPrimaryDark">#f4dc7a</color>
+    <color name="colorPrimaryLight">#eeffff</color>
+    <color name="colorSecondary">#bbdefb</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grey_light">#a9a9a9</color>
+    <color name="divider">#e1eeff</color>
+    <color name="timer">#D32F2F</color>
+<color name="image_background">#fbd8bb</color>
+</resources>

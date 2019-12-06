@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Guess The Object</string>
+    <string name="monika">Monika Belluci</string>
+    <string name="monika_clone">Monika Belluci Clone</string>
+    <string name="total_score">Score</string>
+    <string name="change_score">Raise</string>
+    <string name="play">Play</string>
+    <string name="sport">Sport</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="timer">5</string>
+    <string name="score_counter">0</string>
+    <string name="score_container">Score Icon</string>
+    <string name="guess">Guess</string>
+    <string name="question">Question</string>
+    <string name="next">Next</string>
+    <string name="answer_one">A</string>
+    <string name="answer_two">B</string>
+    <string name="answer_three">C</string>
+    <string name="highest">Highest</string>
+    <string name="play_again">Play Again</string>
+    <string name="quit">Quit</string>
+
+</resources>
